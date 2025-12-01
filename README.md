@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Mai Duong, and I'm a junior software development major at GGC, trying to learn more about everything in development and coding!
+My name is Mai Duong, and I'm a junior software development major at Georgia Gwinnett College, trying to learn more about everything in development and coding!
 
 Nice to meet ya! 😄
 
