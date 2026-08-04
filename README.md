@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Mai Duong, and I'm a junior software development major at Georgia Gwinnett College, trying to learn more about everything in development and coding!
+My name is Mai Duong, and I'm a senior majoring in IT with concentrations in software development and AI at Georgia Gwinnett College. I'm trying to learn more about full-stack development and incorporating AI into my projects!
 
 Nice to meet ya! 😄
 
